@@ -3,11 +3,13 @@
     "modid": "vintagescape",
     "name": "VintageScape",
     "authors": [
-        "Unknown"
+        "SiiMeR"
     ],
-    "description": "To be added",
+    "description": "Level-locked actions",
     "version": "1.0.0",
     "dependencies": {
-        "game": ""
+        "game": "",
+        "xskills": "",
+        "xlib": ""
     }
 }

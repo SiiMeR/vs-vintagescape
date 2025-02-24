@@ -31,6 +31,14 @@
             <HintPath>$(VINTAGE_STORY)/VintagestoryLib.dll</HintPath>
             <Private>false</Private>
         </Reference>
+        <Reference Include="XSkills">
+            <HintPath>lib/xskills</HintPath>
+            <Private>false</Private>
+        </Reference>
+        <Reference Include="XLib">
+            <HintPath>lib/xlib</HintPath>
+            <Private>false</Private>
+        </Reference>
     </ItemGroup>
 
     <ItemGroup>
